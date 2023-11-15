@@ -1,3 +1,8 @@
+
+[Link to Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOTdhODA3ZjEtOTg4Mi00ZjljLTkxNDQtN2JiYmRiMmI1N2ZhIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
+
+
+
 ## AtliQ-sales-insights
 # Project 
 ## Sales Insights of Data Analysis-AtliQ Hardware
